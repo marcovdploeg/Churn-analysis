@@ -1,4 +1,4 @@
-### iris-cluster
+### Churn-analysis
 
 This repository contains code that trains a model to predict whether a customer will churn. 
 The accuracy of the model is about 81%.
